@@ -1,14 +1,10 @@
-node_modules/**/*
-.expo/*
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
-.idea/
+node_modules
+temp
+.tmp
+dist
+.sass-cache
+app/bower_components
+test/bower_components
+package
+app/scripts
 
-# macOS
-.DS_Store
