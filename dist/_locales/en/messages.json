@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "translate",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "It is currently in development",
+    "description": "The description of the application"
+  }
+}
